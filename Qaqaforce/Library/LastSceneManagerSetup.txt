@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/2D Sky FREE/Demo/Scenes/2D Sky FREE Demo (960x600px).unity
+  isLoaded: 1
+  isActive: 1
